@@ -5,7 +5,7 @@
 
 
 - R. Requirements
-- C. Conditions
+- C. Constraints
 - P. Prioritize
 - D. Design
 
@@ -20,7 +20,7 @@ _(Raccoon. City. Police. Department.)_
       1. Search inventory, Buy products, Check reviews, Review past orders, etc.
    2. NonFunctional Reqs:
       1. Functionality, Reliabiliy, Maintainability, Scalibility, Portability, etc.
-2. What are the Conditions? (Restrictions)
+2. What are the Constraints? (Restrictions)
    1. Cost, Legal compliance, Time-to-market, Clients demands, etc.
 3. Prioritize my systems Requirements & Conditions.
    1. Make trade-offs & determine if it's exceptable.
